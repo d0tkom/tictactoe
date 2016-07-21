@@ -1,0 +1,29 @@
+
+body {
+	background-color: black;
+	color: white;
+	font-size: 65px;
+	text-align: center;
+}
+
+.btn {
+	color: white;
+	background-color: green;
+}
+table {
+    border-collapse: collapse;
+    border-style: hidden;
+}
+td {
+border: 1px solid green;
+height: 100px;
+width: 100px;
+	
+}
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+}
